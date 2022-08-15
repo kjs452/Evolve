@@ -8,6 +8,8 @@ It includes a quickstart and full manual.
 
 [Installer available here](https://github.com/ckuhn203/Evolve/releases/tag/v4.0)
 
+!["img"](https://github.com/kjs452/Evolve/blob/master/docs/ss4.jpg "screen shot")
+
 ---
 
 <!--Begin main text-->
