@@ -1,8 +1,7 @@
-**Evolve** is an artificial life simulator that I found a few years ago. 
-Since I originally found it, the website has gone offline. 
-I am posting the source and installer here in order to preserve the project for posterity.
+**Evolve** is an artificial life simulator that I wrote in 2007.
 
 Below is the old project homepage, slightly modified to deal with broken links.
+Thanks to rubberduck203 for restoring this. 
 The website, in it's entirety is available at https://rubberduck203.github.io/Evolve/ thanks to [**@ilyar**](https://github.com/ilyar).
 It includes a quickstart and full manual.
 
